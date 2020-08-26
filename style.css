@@ -93,7 +93,7 @@ li {
 	opacity: .8;
 }
 
-.menu__link:last-child:hover {
+.menu__link_red:hover {
 	color: #000;
 	opacity: .8;
 }
